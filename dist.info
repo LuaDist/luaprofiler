@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "luaprofiler"
+version = "2.0.2"
+
+desc = "LuaProfiler is a time profiler designed to help finding bottlenecks on your Lua program."
+author = "Fábio Mascarenhas, André Carregal, Tomás Guisasola, Danilo Tuler"
+license = "MIT/X11"
+url = "http://www.keplerproject.org/luaprofiler/"
+maintainer = "Peter Kapec"
+
+depends = {
+	"lua ~> 5.1"
+}
